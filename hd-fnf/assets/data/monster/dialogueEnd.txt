@@ -1,0 +1,19 @@
+:gf:surprised:Are you okay?!
+:bf:dazed:...
+:bf:oof:...!!
+:bf:nervous:What...what even??
+:spooky:default:(S) Are you okay fren? You blacked out, probably from too much spooky dancing!
+:bf:nervous:No, I...what?
+:bf:nervous:You guys didn't see that thing?!
+:gf:surprised:What are you on about?
+:bf:nervous:I must be going mad...either way, we done here! No more.
+:bf:clear:It was fun, I guess, but my bowels are gettin' irritable.
+:bf:confused: By the way, what were you two's names?
+:spooky:happy:(S) I'm Skid!
+:spooky:happy:(P) I'm pump!
+:spooky:happy:And we're the Spooky Kids!!
+:gf:default:Awe, I change my mind, they're so cute!
+:gf:smile:Hope we have kids as ambitious as them one day.
+:bf:nervous2:The more I gotta do shit like this, the less fertile I become.
+:bf:clear:But it's coo! We do it for the culture! And the sex.
+:bf:fist:Let's get going lady!
