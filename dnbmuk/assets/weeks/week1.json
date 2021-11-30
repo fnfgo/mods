@@ -1,0 +1,29 @@
+{
+  "songs": [
+    [
+      "bambi's mukbang",
+      "bambi",
+      [ 12, 181, 0 ]
+    ],
+    [
+      "dave's mukbang",
+      "dave",
+      [ 15, 95, 255 ]
+    ]
+  ],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "",
+	"weekBefore": "Tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

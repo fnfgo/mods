@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="greg.png"><SubTexture name="greg idle0000" x="0" y="0" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg idle0001" x="344" y="0" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg idle0002" x="688" y="0" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg idle0003" x="1032" y="0" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg left0000" x="0" y="431" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg left0001" x="344" y="431" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg left0002" x="688" y="431" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg down0000" x="1032" y="431" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg down0001" x="0" y="862" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg down0002" x="344" y="862" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg down0003" x="688" y="862" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg up0000" x="1032" y="862" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg up0001" x="0" y="1293" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg up0002" x="344" y="1293" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg right0000" x="688" y="1293" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg right0001" x="1032" y="1293" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+<SubTexture name="greg right0002" x="0" y="1724" width="344" height="431" frameX="0" frameY="0" frameWidth="344" frameHeight="431" />
+</TextureAtlas>

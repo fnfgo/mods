@@ -1,0 +1,89 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        10,
+        10
+      ],
+      "loop": false,
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "left",
+      "indices": []
+    },
+    {
+      "offsets": [
+        -50,
+        20
+      ],
+      "loop": false,
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "down",
+      "indices": []
+    },
+    {
+      "offsets": [
+        -26,
+        0
+      ],
+      "loop": false,
+      "anim": "singUP",
+      "fps": 24,
+      "name": "up",
+      "indices": []
+    },
+    {
+      "offsets": [
+        -110,
+        18
+      ],
+      "loop": false,
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "right",
+      "indices": []
+    },
+    {
+      "offsets": [
+        -51,
+        10
+      ],
+      "loop": false,
+      "anim": "idle",
+      "fps": 24,
+      "name": "Idle",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -80,
+        21
+      ],
+      "anim": "hey",
+      "fps": 24,
+      "name": "waaa",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/BambiWeek",
+  "position": [
+    0,
+    600
+  ],
+  "healthicon": "bambi",
+  "flip_x": false,
+  "healthbar_colors": [
+    12,
+    181,
+    0
+  ],
+  "camera_position": [
+    -100,
+    50
+  ],
+  "sing_duration": 6.1,
+  "scale": 1
+}

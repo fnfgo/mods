@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fry.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fries0000" x="0" y="0" width="444" height="507"/>
+	<SubTexture name="fries0001" x="0" y="0" width="444" height="507"/>
+	<SubTexture name="fries0002" x="0" y="0" width="444" height="507"/>
+	<SubTexture name="fries0003" x="0" y="0" width="444" height="507"/>
+	<SubTexture name="fries0004" x="0" y="0" width="444" height="507"/>
+	<SubTexture name="fries0005" x="0" y="0" width="444" height="507"/>
+	<SubTexture name="fries0006" x="0" y="0" width="444" height="507"/>
+	<SubTexture name="fries0007" x="0" y="0" width="444" height="507"/>
+	<SubTexture name="fries0008" x="0" y="0" width="444" height="507"/>
+	<SubTexture name="fries0009" x="0" y="0" width="444" height="507"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="wimpybf.png"><SubTexture name="wimpybf idle0000" x="0" y="0" width="763" height="431" frameX="0" frameY="0" frameWidth="763" frameHeight="431" />
+<SubTexture name="wimpybf up0000" x="763" y="0" width="763" height="431" frameX="0" frameY="0" frameWidth="763" frameHeight="431" />
+<SubTexture name="wimpybf up0001" x="1526" y="0" width="763" height="431" frameX="0" frameY="0" frameWidth="763" frameHeight="431" />
+<SubTexture name="wimpybf left0000" x="2289" y="0" width="763" height="431" frameX="0" frameY="0" frameWidth="763" frameHeight="431" />
+<SubTexture name="wimpybf left0001" x="0" y="431" width="763" height="431" frameX="0" frameY="0" frameWidth="763" frameHeight="431" />
+<SubTexture name="wimpybf down0000" x="763" y="431" width="763" height="431" frameX="0" frameY="0" frameWidth="763" frameHeight="431" />
+<SubTexture name="wimpybf down0001" x="1526" y="431" width="763" height="431" frameX="0" frameY="0" frameWidth="763" frameHeight="431" />
+<SubTexture name="wimpybf right0000" x="2289" y="431" width="763" height="431" frameX="0" frameY="0" frameWidth="763" frameHeight="431" />
+<SubTexture name="wimpybf right0001" x="0" y="862" width="763" height="431" frameX="0" frameY="0" frameWidth="763" frameHeight="431" />
+</TextureAtlas>
